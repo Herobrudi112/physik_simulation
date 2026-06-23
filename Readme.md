@@ -1,12 +1,12 @@
-## We have no clue what were doing :D
-But we're great at that!!!!!
+## We also have no clue what we are doing
+
+However we sound wayyy smarter than the old maintainers while doing so!!!!
+
 
 ### Ideas
-- Three pendulums connected by two springs
--> Neutrinooszilation
-
-Pendulum:
--dt²*((g/L)*sin(a))=da
+- open pull requests
+- get rid of old messy codebase
+- RUSTSTSTTSTSTSTTST!!!!!!!!
 
 
-(c) 2026 Mo's Stuff, GutsherrInsel7, D.B.
+Who the fuck needs copyright, this is open source!
