@@ -10,3 +10,4 @@ However we sound wayyy smarter than the old maintainers while doing so!!!!
 
 
 Who the fuck needs copyright, this is open source!
+MOSSTUFF is a real life friend, i am just messing with him a bit
